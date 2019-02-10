@@ -12,6 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.13.0",
-    "eslint-config-google": "^0.12.0"
+    "eslint-config-google": "^0.12.0",
+    "nodemon": "^1.18.10",
+    "npm-start-command": "^0.2.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
   }
 }
